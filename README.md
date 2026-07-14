@@ -10,6 +10,11 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
+<br>
+<a href="https://sami-490.github.io/MealWay-Restaurant/" target="_blank">
+  <img src="https://img.shields.io/badge/View_Live_Demo-FF4B4B?style=for-the-badge" alt="Live Demo"/>
+</a>
+
 </div>
 
 ---
