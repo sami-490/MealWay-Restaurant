@@ -8,6 +8,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 </div>
 
@@ -60,6 +61,7 @@ You only need a modern web browser to view the site, but to run it locally as a 
 
 *   **HTML5 & CSS3**
 *   **Vanilla JavaScript**
+*   **PHP** - For backend form processing and email handling
 *   **Bootstrap 5** - For grid system and utility classes
 *   **Swiper.js** - For elegant touch-friendly sliders
 *   **Glightbox** - For beautiful image popups
